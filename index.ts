@@ -82,7 +82,7 @@ async function rewriteCodingPrompt(prompt: string, language: string = "typescrip
   const systemPromptText = `You are an expert prompt engineer specializing in creating optimal prompts for code-related AI tasks.
 Your job is to take a user's raw Cursor AI's prompt and transform it into a well-structured, detailed prompt that will get the best results from Cursor AI.
 
-Your output should ONLY be the edited prompt that will get the best results from Cursor AI or any IDEwith no additional commentary, explanations, or metadata.`;
+Your output should ONLY be the edited prompt that will get the best results from Cursor AI or any IDE with no additional commentary, explanations, or metadata.`;
 
   // Create message objects
   const systemMessage = new SystemMessage(systemPromptText);
