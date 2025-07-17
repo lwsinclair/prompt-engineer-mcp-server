@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hireshbrem-prompt-engineer-mcp-server-badge.png)](https://mseep.ai/app/hireshbrem-prompt-engineer-mcp-server)
+
 # Coding Prompt Engineer MCP Server
 
 This Model Context Protocol (MCP) server provides a tool to rewrite coding prompts for optimal results with Cursor AI and other AI IDEs, using Claude by Anthropic.
